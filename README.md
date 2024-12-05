@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working at a stealth startup working on a notification system for professionals in global payment banking.<br>👯 I’m looking to collaborate on Python, JavaScript, TypeScript, AI/ML, LLM projects.<br><br>🌱 Learning Python, AWS, Algorithms/Data Structures
+🔭 I'm currently at a stealth startup working on a notification system for professionals in global payment banking.<br>👯 I’m looking to collaborate on Python, JavaScript, TypeScript, AI/ML, LLM projects.<br><br>🌱 Learning Python, AWS, Algorithms/Data Structures
 
 
 ## 🌐 Socials:
